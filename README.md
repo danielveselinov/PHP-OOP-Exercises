@@ -85,7 +85,7 @@ class User
 - Add 1 protected property $is_admin. Its default value should be false;
 - Create a method that checks if the user is admin;
 - Create a method that prints the user’s full name. If the user is admin, print `(admin)` at the end.
-- 
+
 class Customer
 - Should extend the User class;
 - Add 3 private properties: $city, $state, $country;
