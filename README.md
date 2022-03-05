@@ -92,7 +92,7 @@ class Customer
 - The Customer’s class constructor should have the same parameters as the parent constructor;
 - For the other properties create setter and getter methods;
 - Create a method location() that returns ‘$city, $state, $country’.
-- 
+
 class AdminUser
 - Should extend the User class;
 - The constructor should have the same parameters as the parent constructor;
